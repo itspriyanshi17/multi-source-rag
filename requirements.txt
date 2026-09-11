@@ -1,0 +1,30 @@
+pandas>=2.2
+numpy>=1.26
+
+# embeddings + vector store
+sentence-transformers>=3.0
+chromadb>=0.5
+
+# hybrid / lexical retrieval
+rank-bm25>=0.2
+
+# generation
+google-genai>=0.3
+python-dotenv>=1.0
+
+# eval
+ragas>=0.1
+
+# api / demo
+fastapi>=0.111
+uvicorn>=0.30
+streamlit>=1.35
+requests>=2.31
+python-multipart>=0.0.9
+
+# file upload parsing
+pypdf>=4.2
+python-docx>=1.1
+
+# tests
+pytest>=8.0

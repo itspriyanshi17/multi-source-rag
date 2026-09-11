@@ -1,0 +1,128 @@
+[
+  {
+    "id": "q1",
+    "category": "unstructured",
+    "question": "What is the return window for accessories?",
+    "expected_sources": ["return_policy.md"],
+    "expected_answer": "15 days, due to hygiene and resale considerations."
+  },
+  {
+    "id": "q2",
+    "category": "unstructured",
+    "question": "If I registered my NovaBook Pro 15 laptop 20 days ago, is a refund still possible?",
+    "expected_sources": ["product_manual_novabook_pro_15.md", "support_ticket_003_return_request_laptop.md"],
+    "expected_answer": "No standard refund — the registered laptop return window is 14 days, not the general 30-day window, so 20 days is past the deadline. A courtesy store-credit exception may be offered."
+  },
+  {
+    "id": "q3",
+    "category": "unstructured",
+    "question": "How long do I have to return a monitor with dead pixels, and how many dead pixels qualify for a warranty replacement?",
+    "expected_sources": ["warranty_policy.md"],
+    "expected_answer": "More than 3 dead/stuck pixels within the first 90 days qualifies for replacement; 3 or fewer is within normal tolerance."
+  },
+  {
+    "id": "q4",
+    "category": "unstructured",
+    "question": "My earbuds won't charge, what should I do?",
+    "expected_sources": ["product_manual_pulse_earbuds_x2.md", "support_ticket_002_defective_headphones.md"],
+    "expected_answer": "This is likely a hardware defect covered under the 1-year warranty; contact support, who may offer a replacement or refund within 30 days of purchase."
+  },
+  {
+    "id": "q5",
+    "category": "unstructured",
+    "question": "Do you ship internationally?",
+    "expected_sources": ["shipping_faq.md"],
+    "expected_answer": "No, only within the United States and Canada; Canadian orders may incur customs fees."
+  },
+  {
+    "id": "q6",
+    "category": "unstructured",
+    "question": "What is NovaTech Plus and does it change the return window?",
+    "expected_sources": ["faq_account_and_membership.md"],
+    "expected_answer": "A $59/year membership giving free Expedited shipping, early access, and an extended 45-day return window instead of the standard policy."
+  },
+  {
+    "id": "q7",
+    "category": "unstructured",
+    "question": "I was charged twice for the same order, what's going on?",
+    "expected_sources": ["payment_and_billing_faq.md", "support_ticket_004_billing_dispute.md"],
+    "expected_answer": "Usually a temporary authorization hold that drops off within 3-5 business days; if both charges post permanently after that, support can refund the duplicate."
+  },
+  {
+    "id": "q8",
+    "category": "unstructured",
+    "question": "Do loyalty points expire, and what happens to them if I return an order?",
+    "expected_sources": ["loyalty_program_faq.md"],
+    "expected_answer": "Points expire after 18 months of account inactivity; points earned from a purchase are reversed if that purchase is later returned or refunded."
+  },
+  {
+    "id": "q9",
+    "category": "structured",
+    "question": "How many laptops are under $1000 and in stock?",
+    "expected_sources": [],
+    "expected_answer": "1 laptop: NovaBook Air 13 at $899.40, 189 in stock."
+  },
+  {
+    "id": "q10",
+    "category": "structured",
+    "question": "What is the average price of headphones in the catalog?",
+    "expected_sources": [],
+    "expected_answer": "A numeric average computed over the Headphones category rows."
+  },
+  {
+    "id": "q11",
+    "category": "structured",
+    "question": "Which smartwatch has the highest customer rating?",
+    "expected_sources": [],
+    "expected_answer": "The smartwatch row with the max rating value among the Smartwatches category."
+  },
+  {
+    "id": "q12",
+    "category": "structured",
+    "question": "How many products does NovaTech currently have out of stock (stock = 0)?",
+    "expected_sources": [],
+    "expected_answer": "A count of rows where stock equals 0."
+  },
+  {
+    "id": "q13",
+    "category": "both",
+    "question": "Is the NovaView 27 QHD in stock, and is it covered under warranty for dead pixels?",
+    "expected_sources": ["warranty_policy.md"],
+    "expected_answer": "Stock/price come from the product catalog; warranty coverage requires more than 3 dead pixels within 90 days per the warranty policy."
+  },
+  {
+    "id": "q14",
+    "category": "both",
+    "question": "What's the price of the Pulse Earbuds X2, and what is their return window?",
+    "expected_sources": ["product_manual_pulse_earbuds_x2.md", "return_policy.md"],
+    "expected_answer": "Price from the product catalog; return window is 15 days as an accessory, per the manual and general policy."
+  },
+  {
+    "id": "q15",
+    "category": "unanswerable",
+    "question": "Who is the CEO of NovaTech Electronics?",
+    "expected_sources": [],
+    "expected_answer": "Not stated anywhere in the available documents — should say so rather than guessing."
+  },
+  {
+    "id": "q16",
+    "category": "unanswerable",
+    "question": "Do you offer a lifetime warranty on laptops?",
+    "expected_sources": ["warranty_policy.md"],
+    "expected_answer": "No — only a 1-year limited warranty, extendable to 2-3 years via NovaCare+. No lifetime option exists."
+  },
+  {
+    "id": "q17",
+    "category": "unstructured",
+    "question": "What are NovaTech's showroom hours in Austin?",
+    "expected_sources": ["store_locations_and_hours.md"],
+    "expected_answer": "Mon-Sat 10:00 AM - 8:00 PM, Sun 12:00 PM - 6:00 PM."
+  },
+  {
+    "id": "q18",
+    "category": "unstructured",
+    "question": "How long does NovaTech retain my order data after I close my account?",
+    "expected_sources": ["privacy_policy_summary.md"],
+    "expected_answer": "7 years after account closure, for tax/financial recordkeeping compliance."
+  }
+]

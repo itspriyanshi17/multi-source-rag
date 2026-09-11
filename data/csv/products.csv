@@ -1,0 +1,45 @@
+product_id,name,category,brand,price_usd,stock,rating,release_year,specs_summary,description
+P1001,NovaBook Air 13,Laptops,Corevia,899.4,189,3.7,2023,"32GB RAM, 128GB SSD, NovaCore i5 CPU, 11in display, 30h battery",Corevia NovaBook Air 13 is a compact laptop released in 2023.
+P1002,NovaBook Pro 15,Laptops,NovaTech,1507.58,71,4.6,2022,"8GB RAM, 1024GB SSD, NovaCore i9 CPU, 17in display, 10h battery",NovaTech NovaBook Pro 15 is a flagship laptop released in 2022.
+P1003,NovaBook Pro 17,Laptops,NovaTech,2012.52,137,3.4,2025,"32GB RAM, 512GB SSD, NovaCore i9 CPU, 11in display, 12h battery",NovaTech NovaBook Pro 17 is a reliable laptop released in 2025.
+P1004,Zenbyte Slim 14,Laptops,Zenbyte,1843.23,93,3.5,2024,"32GB RAM, 512GB SSD, NovaCore i5 CPU, 11in display, 10h battery",Zenbyte Zenbyte Slim 14 is a compact laptop released in 2024.
+P1005,Zenbyte Ultra 16,Laptops,NovaTech,2178.24,206,3.7,2024,"8GB RAM, 512GB SSD, NovaCore i7 CPU, 32in display, 30h battery",NovaTech Zenbyte Ultra 16 is a reliable laptop released in 2024.
+P1006,Corevia Work 15,Laptops,Corevia,1417.92,56,4.9,2023,"16GB RAM, 128GB SSD, NovaCore i5 CPU, 14in display, 10h battery",Corevia Corevia Work 15 is a premium laptop released in 2023.
+P1007,Corevia Studio 16,Laptops,Corevia,1996.3,174,4.7,2024,"32GB RAM, 512GB SSD, NovaCore i5 CPU, 17in display, 30h battery",Corevia Corevia Studio 16 is a flagship laptop released in 2024.
+P1008,Pulsar X2,Smartphones,Corevia,806.66,50,3.5,2023,"128GB storage, 32in display, 6mAh battery, 12MP camera",Corevia Pulsar X2 is a premium smartphone released in 2023.
+P1009,Pulsar X2 Pro,Smartphones,Corevia,784.99,17,4.9,2023,"1024GB storage, 17in display, 30mAh battery, 48MP camera",Corevia Pulsar X2 Pro is a compact smartphone released in 2023.
+P1010,Pulsar Lite,Smartphones,NovaTech,523.7,86,3.2,2023,"128GB storage, 13in display, 12mAh battery, 12MP camera",NovaTech Pulsar Lite is a premium smartphone released in 2023.
+P1011,NovaPhone 12,Smartphones,Corevia,431.31,239,4.7,2025,"1024GB storage, 14in display, 8mAh battery, 108MP camera",Corevia NovaPhone 12 is a compact smartphone released in 2025.
+P1012,NovaPhone 12 Mini,Smartphones,NovaTech,701.62,86,4.6,2022,"256GB storage, 15in display, 30mAh battery, 48MP camera",NovaTech NovaPhone 12 Mini is a compact smartphone released in 2022.
+P1013,Corevia Edge,Smartphones,Corevia,1298.28,214,3.2,2022,"256GB storage, 32in display, 40mAh battery, 48MP camera",Corevia Corevia Edge is a flagship smartphone released in 2022.
+P1014,Pulse Earbuds X2,Headphones,NovaTech,170.13,245,4.4,2025,"6h battery life, Active Noise Cancelling, Bluetooth 5.2",NovaTech Pulse Earbuds X2 is a compact headphone released in 2025.
+P1015,Pulse Earbuds X2 Pro,Headphones,Pulse,60.24,17,4.3,2023,"8h battery life, Passive isolation, Bluetooth 5.3",Pulse Pulse Earbuds X2 Pro is a everyday headphone released in 2023.
+P1016,Pulse Over-Ear ANC,Headphones,Aurora,239.11,117,3.7,2022,"12h battery life, Active Noise Cancelling, Bluetooth 5.3",Aurora Pulse Over-Ear ANC is a reliable headphone released in 2022.
+P1017,NovaSound Buds,Headphones,Aurora,257.1,156,4.9,2022,"18h battery life, Active Noise Cancelling, Bluetooth 5.2",Aurora NovaSound Buds is a entry-level headphone released in 2022.
+P1018,Aurora Studio Cans,Headphones,Aurora,235.61,67,4.1,2024,"6h battery life, Passive isolation, Bluetooth 5.2",Aurora Aurora Studio Cans is a flagship headphone released in 2024.
+P1019,NovaView 24 FHD,Monitors,Zenbyte,156.25,19,4.8,2023,"27in, 1920x1080, 144Hz refresh rate",Zenbyte NovaView 24 FHD is a premium monitor released in 2023.
+P1020,NovaView 27 QHD,Monitors,Corevia,734.09,226,4.7,2023,"13in, 2560x1440, 75Hz refresh rate",Corevia NovaView 27 QHD is a compact monitor released in 2023.
+P1021,NovaView 32 4K,Monitors,NovaTech,298.68,235,4.0,2024,"16in, 2560x1440, 144Hz refresh rate",NovaTech NovaView 32 4K is a flagship monitor released in 2024.
+P1022,Corevia UltraWide 34,Monitors,NovaTech,235.51,248,3.6,2024,"24in, 2560x1440, 60Hz refresh rate",NovaTech Corevia UltraWide 34 is a reliable monitor released in 2024.
+P1023,Zenbyte Studio 27,Monitors,Corevia,472.47,242,4.3,2024,"10in, 3840x2160, 144Hz refresh rate",Corevia Zenbyte Studio 27 is a premium monitor released in 2024.
+P1024,Aurora Smartwatch,Smartwatches,Pulsar,355.81,44,4.2,2024,"12h battery, IP67 water resistant, heart-rate + SpO2 sensors",Pulsar Aurora Smartwatch is a everyday smartwatche released in 2024.
+P1025,Aurora Smartwatch Pro,Smartwatches,Pulsar,110.37,131,4.3,2024,"10h battery, IPX4 splash resistant, heart-rate + SpO2 sensors",Pulsar Aurora Smartwatch Pro is a reliable smartwatche released in 2024.
+P1026,NovaFit Watch,Smartwatches,Pulsar,336.65,126,3.9,2023,"12h battery, IP67 water resistant, heart-rate + SpO2 sensors",Pulsar NovaFit Watch is a entry-level smartwatche released in 2023.
+P1027,Pulsar Watch Lite,Smartwatches,Pulsar,275.52,143,4.2,2025,"40h battery, IPX4 splash resistant, heart-rate + SpO2 sensors",Pulsar Pulsar Watch Lite is a premium smartwatche released in 2025.
+P1028,NovaTab 10,Tablets,Corevia,253.24,73,3.6,2024,"128GB storage, 15in display, 12h battery",Corevia NovaTab 10 is a high-performance tablet released in 2024.
+P1029,NovaTab 10 Pro,Tablets,Corevia,242.59,213,3.9,2022,"1024GB storage, 13in display, 24h battery",Corevia NovaTab 10 Pro is a flagship tablet released in 2022.
+P1030,Corevia Slate 11,Tablets,Corevia,219.32,86,4.3,2025,"1024GB storage, 11in display, 6h battery",Corevia Corevia Slate 11 is a entry-level tablet released in 2025.
+P1031,Zenbyte ClickPro X,Cameras,NovaTech,936.61,54,4.0,2024,"32MP sensor, 4K video, 3x optical zoom",NovaTech Zenbyte ClickPro X is a flagship camera released in 2024.
+P1032,Zenbyte ClickPro X2,Cameras,Zenbyte,658.01,5,4.3,2023,"32MP sensor, 4K video, 3x optical zoom",Zenbyte Zenbyte ClickPro X2 is a compact camera released in 2023.
+P1033,NovaCam Mirrorless,Cameras,NovaTech,963.81,183,3.5,2023,"24MP sensor, 4K video, 5x optical zoom",NovaTech NovaCam Mirrorless is a reliable camera released in 2023.
+P1034,Pulse Boom Mini,Speakers,Aurora,288.41,162,4.7,2025,"18h battery, IPX4 splash resistant, 40W output",Aurora Pulse Boom Mini is a entry-level speaker released in 2025.
+P1035,Pulse Boom XL,Speakers,Aurora,94.84,118,4.2,2025,"40h battery, IPX4 splash resistant, 20W output",Aurora Pulse Boom XL is a high-performance speaker released in 2025.
+P1036,Aurora Home Speaker,Speakers,Pulse,94.17,104,4.0,2023,"8h battery, IPX4 splash resistant, 40W output",Pulse Aurora Home Speaker is a entry-level speaker released in 2023.
+P1037,USB-C 100W Charger,Accessories,Corevia,53.28,88,3.9,2024,"Universal compatibility, 1-year limited warranty",Corevia USB-C 100W Charger is a high-performance accessorie released in 2024.
+P1038,Wireless Mouse M2,Accessories,Corevia,66.97,250,4.5,2024,"Universal compatibility, 1-year limited warranty",Corevia Wireless Mouse M2 is a reliable accessorie released in 2024.
+P1039,Mechanical Keyboard K5,Accessories,Pulse,78.48,125,3.4,2022,"Universal compatibility, 1-year limited warranty",Pulse Mechanical Keyboard K5 is a premium accessorie released in 2022.
+P1040,Laptop Sleeve 15in,Accessories,Pulse,59.36,13,3.5,2024,"Universal compatibility, 1-year limited warranty",Pulse Laptop Sleeve 15in is a reliable accessorie released in 2024.
+P1041,Fast Wireless Charger Pad,Accessories,Pulse,85.81,25,4.8,2023,"Universal compatibility, 1-year limited warranty",Pulse Fast Wireless Charger Pad is a entry-level accessorie released in 2023.
+P1042,Corevia PlayDeck,Gaming Consoles,NovaTech,212.06,73,4.4,2025,"256GB storage, 12h battery, handheld + docked mode",NovaTech Corevia PlayDeck is a reliable gaming console released in 2025.
+P1043,Corevia PlayDeck Pro,Gaming Consoles,Corevia,516.05,152,4.5,2024,"1024GB storage, 18h battery, handheld + docked mode",Corevia Corevia PlayDeck Pro is a everyday gaming console released in 2024.
+P1044,NovaPlay Handheld,Gaming Consoles,Corevia,235.53,246,4.3,2022,"512GB storage, 40h battery, handheld + docked mode",Corevia NovaPlay Handheld is a flagship gaming console released in 2022.
